@@ -12,5 +12,4 @@ export class Todo {
 }
 
 Todo.init()
-
 window.todo = Todo
